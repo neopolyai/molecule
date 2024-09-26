@@ -1,0 +1,5 @@
+Candidate,Reference
+COC(=O)c1sc2csc(-c3cc4c(s3)c(OC)c3ccsc3c4OC)c2c1F,Cn1c2ccccc2c2ccc(-c3ccc(-c4nnc(-c5cccs5)c5nonc54)s3)cc21
+COC(=O)c1sc2csc(-c3cc4c(s3)c(OC)c3ccsc3c4OC)c2c1F,CC1(C)c2ccsc2-c2sc(-c3cccc4nsnc43)cc21
+COCc1cc2csc(-c3cc4c(s3)c(OC)c3ccsc3c4OC)c2s1,Cn1c2ccccc2c2ccc(-c3ccc(-c4nnc(-c5cccs5)c5nonc54)s3)cc21
+COCc1cc2csc(-c3cc4c(s3)c(OC)c3ccsc3c4OC)c2s1,CC1(C)c2ccsc2-c2sc(-c3cccc4nsnc43)cc21
